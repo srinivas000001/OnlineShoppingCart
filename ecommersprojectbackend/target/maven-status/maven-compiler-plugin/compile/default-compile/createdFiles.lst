@@ -1,5 +1,14 @@
+com\niit\ecommersprojectbackend\dao\CategoryDAO.class
 com\niit\ecommersprojectbackend\dbconfig\HibernateConfiguration.class
-com\niit\ecommersprojectbackend\model\User.class
 com\niit\ecommersprojectbackend\dao\UserDAO.class
+com\niit\ecommersprojectbackend\daoimpl\CategoryDAOImpl.class
 com\niit\ecommersprojectbackend\daoimpl\UserDAOImpl.class
+com\niit\ecommersprojectbackend\model\Category.class
+com\niit\ecommersprojectbackend\dao\ProductDAO.class
 com\niit\ecommersprojectbackend\App.class
+com\niit\ecommersprojectbackend\daoimpl\SupplierDAOImpl.class
+com\niit\ecommersprojectbackend\model\Product.class
+com\niit\ecommersprojectbackend\model\User.class
+com\niit\ecommersprojectbackend\dao\SupplierDAO.class
+com\niit\ecommersprojectbackend\daoimpl\ProductDAOImpl.class
+com\niit\ecommersprojectbackend\model\Supplier.class

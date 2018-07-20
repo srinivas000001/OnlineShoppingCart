@@ -1,2 +1,6 @@
 com\niit\ecommersprojectbackend\AppTest.class
+com\niit\ecommersprojectbackend\testcases\CategoryTestCase.class
+com\niit\ecommersprojectbackend\testcases\ProductTestCase.class
+com\niit\ecommersprojectbackend\testcases\SupplierTestCase.class
+com\niit\ecommersprojectbackend\testcases\UserTestCase.class
 com\niit\ecommersprojectbackend\UserTestCase.class
